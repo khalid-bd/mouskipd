@@ -1,0 +1,13 @@
+{
+    "name": "mouskipd",
+    "authors": [
+        {
+            "name": "Khalid Sookia",
+            "email": "khalid_sookia@yahoo.com"
+        }
+    ],
+    "require": {
+        "h4cc/wkhtmltopdf-amd64": "0.12.2.1",
+        "knplabs/knp-snappy": "0.4.*"
+    }
+}
